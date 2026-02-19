@@ -1,10 +1,6 @@
  # Insight precedes impact.
 
-  I am the **Inveloper** behind the **@hradekyimufy** manifest.
-
-  ### Doctrine
-  Bio-inspired digital immunity.
-
+  I am the **Inveloper** behind the **@hradekyimufy**.
   ---
 
   ### Ecosystem
